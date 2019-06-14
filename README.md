@@ -4,7 +4,7 @@ It  runs on Glassfish Server 4.1, the data is stored on Apache Derby Database.
 Using EJB's  Simplified development of large-scale enterprise level application.
 
 - JPA data is represented by classes and objects rather than by tables and records as in JDBC. this can significantly simplify database programming.
-- EJB container provides EJB container manages life cycle of EJB instances, thus developer needs not to worry about when to create/delete EJB objects.
+- EJB container manages life cycle of EJB instances, thus developer needs not to worry about when to create/delete EJB objects.
 - JMS provides asynchronicity.
 - Web Services gives Interoperability.
 ## Configuration
