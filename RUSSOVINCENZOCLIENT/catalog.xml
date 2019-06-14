@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/RUSSOVINCENZOWBS/NegozioWBS?wsdl" uri="xml-resources/web-service-references/NegozioWBS_4/wsdl/localhost_8080/RUSSOVINCENZOWBS/NegozioWBS.wsdl"/>
+    <system systemId="http://localhost:8080/RUSSOVINCENZOWBS/NegozioWBS?xsd=1" uri="xml-resources/web-service-references/NegozioWBS_4/wsdl/localhost_8080/RUSSOVINCENZOWBS/NegozioWBS.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/RUSSOVINCENZOWEB/NegozioWBS?wsdl" uri="xml-resources/web-service-references/NegozioWBS/wsdl/localhost_8080/RUSSOVINCENZOWEB/NegozioWBS.wsdl"/>
+    <system systemId="http://localhost:8080/RUSSOVINCENZOWEB/NegozioWBS?xsd=1" uri="xml-resources/web-service-references/NegozioWBS/wsdl/localhost_8080/RUSSOVINCENZOWEB/NegozioWBS.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/NegozioWebservice/NegozioWebservice?wsdl" uri="xml-resources/web-service-references/NegozioWebservice/wsdl/localhost_8080/NegozioWebservice/NegozioWebservice.wsdl"/>
+    <system systemId="http://localhost:8080/NegozioWebservice/NegozioWebservice?xsd=1" uri="xml-resources/web-service-references/NegozioWebservice/wsdl/localhost_8080/NegozioWebservice/NegozioWebservice.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/NegozioWBS/NegozioWBS?wsdl" uri="xml-resources/web-service-references/NegozioWBS_1/wsdl/localhost_8080/NegozioWBS/NegozioWBS.wsdl"/>
+    <system systemId="http://localhost:8080/NegozioWBS/NegozioWBS?xsd=1" uri="xml-resources/web-service-references/NegozioWBS_1/wsdl/localhost_8080/NegozioWBS/NegozioWBS.xsd_1.xsd"/>
+</catalog>

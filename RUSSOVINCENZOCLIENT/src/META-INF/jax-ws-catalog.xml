@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/NegozioWBS/NegozioWBS?wsdl" uri="wsdl/localhost_8080/NegozioWBS/NegozioWBS.wsdl"/>
+    <system systemId="http://localhost:8080/NegozioWBS/NegozioWBS?xsd=1" uri="wsdl/localhost_8080/NegozioWBS/NegozioWBS.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/RUSSOVINCENZOWEB/NegozioWBS?wsdl" uri="wsdl/localhost_8080/RUSSOVINCENZOWEB/NegozioWBS.wsdl"/>
+    <system systemId="http://localhost:8080/RUSSOVINCENZOWEB/NegozioWBS?xsd=1" uri="wsdl/localhost_8080/RUSSOVINCENZOWEB/NegozioWBS.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/NegozioWebservice/NegozioWebservice?wsdl" uri="wsdl/localhost_8080/NegozioWebservice/NegozioWebservice.wsdl"/>
+    <system systemId="http://localhost:8080/NegozioWebservice/NegozioWebservice?xsd=1" uri="wsdl/localhost_8080/NegozioWebservice/NegozioWebservice.xsd_1.xsd"/>
+</catalog>
