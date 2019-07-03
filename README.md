@@ -1,5 +1,5 @@
 # JavaEE Store
-A CRUD in Java EE 7 for store management using JPA, EJB, JMS, Web Services.
+A CRUD in Java EE 7 (Middleware) for store management using JPA, EJB, JMS, Web Services.
 It  runs on Glassfish Server 4.1, the data is stored on Apache Derby Database. 
 Using EJB's  Simplified development of large-scale enterprise level application.
 
